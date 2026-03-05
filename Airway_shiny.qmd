@@ -1,0 +1,6 @@
+---
+title: "Interactive Report: Airway Data"
+date: March 5, 2026
+bibliogrphy: https://gist.githubusercontent.com/johnsonra/121eb61bf4b09e4258b78e341b1819e9/raw/51d87906d0b5824f9809f667008046665b815649/references.bib
+server: shiny
+---
