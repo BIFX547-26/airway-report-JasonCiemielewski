@@ -1,0 +1,21 @@
+# Quarto / R / Shiny ignore
+.quarto/
+*_files/
+*_cache/
+*.html
+*.pdf
+*.docx
+
+# Git / IDE ignore
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.posit/
+manifest.json
+
+# Shinylive assets (These are generated during render)
+shinylive-sw.js
+
+# We keep the _extensions metadata but exclude the heavy wasm binaries if they are generated locally
+# (Usually they stay inside _files/ which is already ignored)
